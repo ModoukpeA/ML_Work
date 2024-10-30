@@ -1,11 +1,13 @@
 This project aims to predict house prices using various machine learning algorithms and a set of housing features. Using Python libraries like pandas, scikit-learn, and matplotlib, the project walks through data preprocessing, exploratory data analysis (EDA), and model training and evaluation.
 
 # Project Overview
-Accurate house price prediction is essential for buyers, sellers, and real estate agents, aiding in investment decisions and market analysis. This project explores multiple machine learning models to determine the best approach for predicting house prices. Models tested include:
+Accurate house price prediction is essential for buyers, sellers, and real estate agents, aiding in investment decisions and market analysis. This project explores multiple machine learning models to determine the best approach for predicting house prices.
 
-## Linear Regression
-Random Forest Regressor
-Gradient Boosting Regressor
+## Models tested include:
+
+- Linear Regression
+- Random Forest Regressor
+- Gradient Boosting Regressor
 
 ## Requirements
 To run this project, you will need:
