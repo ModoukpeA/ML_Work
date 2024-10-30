@@ -18,8 +18,7 @@ Random Forest achieved the highest accuracy, making it the best model for this p
 ## How to Run
 Clone this repository and execute `titanic_survival_prediction.ipynb` to see the results.
 
-
-Additional Notes:
-Hyperparameter Tuning: Try tuning hyperparameters with GridSearchCV or RandomizedSearchCV to improve model performance.
-Feature Selection: Experiment by adding or removing features to observe the effect on model performance.
-Save the Model: Use joblib or pickle to save the best-performing model for future use.
+## Additional Notes
+- Try tuning hyperparameters with GridSearchCV or RandomizedSearchCV to improve model performance.
+- Experiment by adding or removing features to observe the effect on model performance.
+- Use joblib or pickle to save the best-performing model for future use.
