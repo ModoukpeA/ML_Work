@@ -1,4 +1,3 @@
-# ML_Work
 # Machine Learning Projects
 
 Welcome to my repository of Machine Learning projects! This collection showcases a variety of ML applications, from data preprocessing and exploratory analysis to model development and deployment. These projects explore real-world datasets, leveraging machine learning algorithms and frameworks to derive insights, make predictions, and build solutions.
@@ -48,3 +47,24 @@ To run any project locally:
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/ml-projects.git
+
+## Technologies
+
+The projects are built using:
+
+- Languages: Python
+- Libraries: NumPy, pandas, scikit-learn, TensorFlow, Keras, PyTorch, Matplotlib, Seaborn, NLTK, OpenCV
+- Tools: Jupyter Notebook, Google Colab
+
+## Usage
+Each project folder contains:
+
+- README.md with project-specific instructions and description
+- Notebooks and scripts for data loading, preprocessing, model training, and evaluation
+- Example datasets (if available) or links to datasets
+To run the code, simply open the Jupyter notebooks or Python scripts in your local environment or on Google Colab.
+
+## Contributing
+   Contributions are welcome! If you have suggestions or improvements, please open an issue or submit a pull request. Let’s learn and grow together in the field of Machine Learning.
+
+#### Thank you for visiting! Enjoy exploring these projects!
