@@ -1,4 +1,4 @@
-# Movie Recommendation System
+# Movie Recommendation Model
 
 ## Project Overview
 This project creates a recommendation system to suggest movies to users based on their historical ratings.
