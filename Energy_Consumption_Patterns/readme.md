@@ -3,7 +3,7 @@
 **Abstract**
 
 This work presents and discusses the effect of feature extraction and feature selection on a linear
-regression model performance on an energy consumption dataset. The dataset used [1] is a
+regression model performance on an energy consumption dataset. The dataset used is a
 multivariate and timeseries data on energy consumption, with 19,735 instances and 29 attributes
 collected over 4.5 months. The objective is to perform exploratory data analysis and visualization of
 energy consumption over time, build a linear regression model to estimate the consumption for
